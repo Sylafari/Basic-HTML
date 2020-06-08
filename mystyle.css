@@ -5,7 +5,9 @@ img
     margin-right: auto;
 }
 
-p
+body {background-color: slategrey;}
+
+#P1S
 {
     text-align: center;
 }
