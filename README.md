@@ -1,5 +1,6 @@
-# Project01
-QuickStart Project 1 - Simple Web Site Frontend
+Basic HTML Front End
+
+Simple Web Site Frontend
 Quinn Cheng
 
 A website about collectibles.
